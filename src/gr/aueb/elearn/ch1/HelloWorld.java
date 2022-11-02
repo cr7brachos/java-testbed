@@ -1,5 +1,8 @@
 package gr.aueb.elearn.ch1;
 
+/**
+ * Prints Hello World
+ */
 public class HelloWorld {
 
     public static void main(String[] args) {
